@@ -830,4 +830,4 @@
     }
     window.G=Global;
 }(window));
-    
+console.log("test");
