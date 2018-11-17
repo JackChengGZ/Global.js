@@ -1,0 +1,23 @@
+{
+  "name": "globalfunction",
+  "version": "1.0.0",
+  "description": "global 全局方法",
+  "main": "Global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackChengGZ/Global.js.git"
+  },
+  "keywords": [
+    "\u001b[A\u001b[Bglobal",
+    "全局方法"
+  ],
+  "author": "jackcheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackChengGZ/Global.js/issues"
+  },
+  "homepage": "https://github.com/JackChengGZ/Global.js#readme"
+}
