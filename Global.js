@@ -827,5 +827,4 @@ module.exports ={
 		return strre + "...";
 	}
 }
-console.log(123);
 

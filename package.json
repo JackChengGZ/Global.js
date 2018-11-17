@@ -1,6 +1,6 @@
 {
   "name": "globalfunction",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "global 全局方法",
   "main": "Global.js",
   "scripts": {
